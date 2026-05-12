@@ -1,0 +1,8 @@
+models/random_forest.pkl
+models/deep_learning_model.keras
+models/deep_learning_best.keras
+models/*.npy
+__pycache__/
+*.pyc
+.DS_Store
+*.png
