@@ -7,4 +7,3 @@ xgboost
 streamlit
 plotly
 joblib
-scikit-learn
